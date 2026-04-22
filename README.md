@@ -7,9 +7,18 @@ Eu escolhi fazer o meu currículo em LaTeX pelos seguintes motivos:
 * **Versionamento (Resume as Code):** Trato minha evolução profissional como código, mantendo um histórico claro de todas as atualizações e melhorias no meu perfil.
 
 Vale dizer que utilizei o site Overleaf para a criação do currículo que vem a seguir!
+
 ---
-<img width="2481" height="3508" alt="CurriculoAtualizado_page-0001" src="https://github.com/user-attachments/assets/0dd56054-3c73-453a-bdbd-129394d27000" />
-<img width="2481" height="3508" alt="CurriculoAtualizado_page-0002" src="https://github.com/user-attachments/assets/97e42aa6-f866-419f-885e-b84aaa38d4e1" />
+
+<div align="center">
+  <a href="./CurriculoAtualizado.pdf" target="_blank">
+    <img width="800" alt="Página 1 do Currículo" src="./CurriculoAtualizado_page-0001.jpg" />
+  </a>
+  <br><br>
+  <a href="./CurriculoAtualizado.pdf" target="_blank">
+    <img width="800" alt="Página 2 do Currículo" src="./CurriculoAtualizado_page-0002.jpg" />
+  </a>
+</div>
 
 ---
 ## Links Oficiais
